@@ -19,9 +19,9 @@ public static void main (String args[]) throws IOException
 
 	        InputStreamReader r=new InputStreamReader(System.in); 
             BufferedReader br=new BufferedReader(r); 
-            System.out.println("Enter ur name");  
+            System.out.println("Βάλτε ένα Όνομα");  
             String name=br.readLine(); 
-            System.out.println("Welcome "+name);  
+            System.out.println("Καλωσήρθες "+name);  
 
 
         //Βήμα 2: Αναμονή και αποδοχή αίτησης σύνδεσης από πελάτη
