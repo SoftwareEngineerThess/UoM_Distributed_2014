@@ -5,8 +5,10 @@ import java.net.*;
 import java.io.*;
 
 public class ClientServer {
+	
 	private static final int PORT = 1234;
-	public static void Main (String args[]) throws IOException
+	
+	public static void main (String args[]) throws IOException
 	{
 	    int connectionCount = 0;
 	
@@ -53,5 +55,5 @@ public class ClientServer {
 	    }
 	       
 	}
->>>>>>> refs/heads/develop
+
 }
