@@ -3,7 +3,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+		
+		
 /*		PETROOO odigies
 		Enallaktikoi Git Clients anti tou eclipse pou mporeis na xrisimopoiHseis: SmartGit(auon exw egw), kai exw akousei polu kala logia kai gia ton "Aptana". Dialekse opoion 8es 
 		1- GIT PULL: Ferneis ta arxeia sto pc sou me to git. URL "https://github.com/SoftwareEngineerThess/UoM_Distributed_2014.git". workspace tou git o fakelos "UoM_Distributed_2014.git" (dimiourgise ton an den yparxei) mesa sto workspace tou eclipse
@@ -13,6 +15,8 @@ public class Main {
 		4- Onoma project "Crawler03"
 		5- kane mia allagi na dw oti ola einai ok gia na ksekinisoume 
 */		
+		
+		JRManager jr = new JRManager();
 	}
 
 }
