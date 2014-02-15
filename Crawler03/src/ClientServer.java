@@ -17,7 +17,7 @@ public static void main (String args[]) throws IOException
     {
         //Αναμονή για Πελάτες Σύνδεσης
 
-	    InputStreamReader r=new InputStreamReader(System.in); 
+	        InputStreamReader r=new InputStreamReader(System.in); 
             BufferedReader br=new BufferedReader(r); 
             System.out.println("Enter ur name");  
             String name=br.readLine(); 
