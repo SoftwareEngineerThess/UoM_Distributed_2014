@@ -18,11 +18,11 @@ public static void main (String args[]) throws IOException
     {
         //Αναμονή για Πελάτες Σύνδεσης
 
-	    InputStreamReader r=new InputStreamReader(System.in); 
-            BufferedReader br=new BufferedReader(r); 
-            System.out.println("Enter ur name");  
-            String name=br.readLine(); 
-            System.out.println("Welcome "+name);  
+    	InputStreamReader r=new InputStreamReader(System.in); 
+        BufferedReader br=new BufferedReader(r); 
+        System.out.println("Enter ur name");  
+        String name=br.readLine(); 
+        System.out.println("Welcome "+name);   
 
 
         //Βήμα 2: Αναμονή και αποδοχή αίτησης σύνδεσης από πελάτη
